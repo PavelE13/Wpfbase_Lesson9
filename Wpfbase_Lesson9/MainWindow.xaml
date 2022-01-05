@@ -48,8 +48,8 @@
         <ToolBarTray Grid.Row="1" Style="{DynamicResource ToolBarTrayStyle}">
             <ToolBar>
                 <ComboBox x:Name="styleBox" SelectedIndex="0" Width="180"/>
-                <ComboBox  SelectedIndex="0" Width="200" ItemsSource="{DynamicResource textstyle}" SelectionChanged="ComboBox_SelectionChanged" />
-                <ComboBox  SelectedIndex="2" Width="50"  ItemsSource="{DynamicResource fontsize}" SelectionChanged="ComboBox_SelectionChanged_1" />
+                <ComboBox x:Name="textStylebinding"  SelectedIndex="0" Width="200" ItemsSource="{DynamicResource textstyle}" SelectionChanged="ComboBox_SelectionChanged" />
+                <ComboBox x:Name="textSizebinding" SelectedIndex="2" Width="50"  ItemsSource="{DynamicResource fontsize}" SelectionChanged="ComboBox_SelectionChanged_1" />
             </ToolBar>
             <ToolBar>
                 <Button Click="Button_Click">
@@ -73,7 +73,7 @@
                 </StackPanel>
             </ToolBar>
         </ToolBarTray>
-        <TextBox x:Name="textbox" Grid.Row="2" Style="{DynamicResource TextBoxStyle}">
+        <TextBox x:Name="textbox" Grid.Row="2" Style="{Binding ElementName=textStylebinding, Path=ItemsSource}" FontSize="{Binding ElementName=textStylebinding, Path=ItemsSource}">
         </TextBox>
     </Grid>
 </Window>

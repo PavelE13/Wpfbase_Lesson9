@@ -1,0 +1,17 @@
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\bin\Debug\Wpfbase_Lesson9.exe.config
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\bin\Debug\Wpfbase_Lesson9.exe
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\bin\Debug\Wpfbase_Lesson9.pdb
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.csproj.AssemblyReference.cache
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Dictionary1dark.baml
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Dictionary2Light.baml
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\MainWindow.g.cs
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\App.g.cs
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9_MarkupCompile.cache
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9_MarkupCompile.lref
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\MainWindow.baml
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.g.resources
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.Properties.Resources.resources
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.csproj.GenerateResource.cache
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.csproj.CoreCompileInputs.cache
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.exe
+F:\Обучение 2035\ProjectWPF\lesson_13\Wpfbase_Lesson9\obj\Debug\Wpfbase_Lesson9.pdb
